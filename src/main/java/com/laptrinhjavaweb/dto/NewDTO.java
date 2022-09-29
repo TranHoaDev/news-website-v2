@@ -1,4 +1,4 @@
-package com.laptrinhjavaweb.dto;
+package com.demo.dto;
 
 public class NewDTO extends AbstractDTO<NewDTO> {
 	

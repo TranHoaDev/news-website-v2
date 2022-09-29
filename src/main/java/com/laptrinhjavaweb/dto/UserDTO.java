@@ -1,4 +1,4 @@
-package com.laptrinhjavaweb.dto;
+package com.demo.dto;
 
 import java.util.Collection;
 

@@ -1,4 +1,4 @@
-package com.laptrinhjavaweb.paging;
+package com.demo.paging;
 
 
 public interface Pageble {

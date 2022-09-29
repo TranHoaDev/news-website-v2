@@ -1,4 +1,4 @@
-package com.laptrinhjavaweb.service;
+package com.demo.service;
 
 import java.util.Map;
 

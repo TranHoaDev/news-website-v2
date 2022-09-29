@@ -1,4 +1,4 @@
-package com.laptrinhjavaweb.controller.web;
+package com.demo.controller.web;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

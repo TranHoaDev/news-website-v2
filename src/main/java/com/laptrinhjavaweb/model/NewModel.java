@@ -1,4 +1,4 @@
-package com.laptrinhjavaweb.model;
+package com.demo.model;
 
 public class NewModel extends AbstractModel<NewModel> {
 	

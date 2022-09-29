@@ -1,9 +1,9 @@
-package com.laptrinhjavaweb.converter;
+package com.demo.converter;
 
 import org.springframework.stereotype.Component;
 
-import com.laptrinhjavaweb.dto.CategoryDTO;
-import com.laptrinhjavaweb.entity.CategoryEntity;
+import com.demo.dto.CategoryDTO;
+import com.demo.entity.CategoryEntity;
 
 @Component
 public class CategoryConverter {

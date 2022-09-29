@@ -1,4 +1,4 @@
-package com.laptrinhjavaweb.util;
+package com.demo.util;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.context.SecurityContextHolder;
 
-import com.laptrinhjavaweb.dto.UserDTO;
+import com.demo.dto.UserDTO;
 
 public class SecurityUtils {
 	

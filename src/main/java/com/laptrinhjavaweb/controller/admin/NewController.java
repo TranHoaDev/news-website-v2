@@ -1,4 +1,4 @@
-package com.laptrinhjavaweb.controller.admin;
+package com.demo.controller.admin;
 
 import java.util.Map;
 
@@ -13,10 +13,10 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.laptrinhjavaweb.dto.NewDTO;
-import com.laptrinhjavaweb.service.ICategoryService;
-import com.laptrinhjavaweb.service.INewService;
-import com.laptrinhjavaweb.util.MessageUtil;
+import com.demo.dto.NewDTO;
+import com.demo.service.ICategoryService;
+import com.demo.service.INewService;
+import com.demo.util.MessageUtil;
 
 @Controller(value = "newControllerOfAdmin")
 public class NewController {

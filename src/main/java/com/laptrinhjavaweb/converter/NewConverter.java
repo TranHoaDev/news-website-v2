@@ -1,9 +1,9 @@
-package com.laptrinhjavaweb.converter;
+package com.demo.converter;
 
 import org.springframework.stereotype.Component;
 
-import com.laptrinhjavaweb.dto.NewDTO;
-import com.laptrinhjavaweb.entity.NewEntity;
+import com.demo.dto.NewDTO;
+import com.demo.entity.NewEntity;
 
 @Component
 public class NewConverter {

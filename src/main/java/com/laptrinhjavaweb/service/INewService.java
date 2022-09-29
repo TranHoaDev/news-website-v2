@@ -1,10 +1,10 @@
-package com.laptrinhjavaweb.service;
+package com.demo.service;
 
 import java.util.List;
 
 import org.springframework.data.domain.Pageable;
 
-import com.laptrinhjavaweb.dto.NewDTO;
+import com.demo.dto.NewDTO;
 
 public interface INewService {
 	List<NewDTO> findAll(Pageable pageable);

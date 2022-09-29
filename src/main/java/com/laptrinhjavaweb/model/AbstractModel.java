@@ -1,4 +1,4 @@
-package com.laptrinhjavaweb.model;
+package com.demo.model;
 
 import java.sql.Timestamp;
 import java.util.ArrayList;

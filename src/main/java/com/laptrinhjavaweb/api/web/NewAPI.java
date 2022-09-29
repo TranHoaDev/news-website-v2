@@ -1,4 +1,4 @@
-package com.laptrinhjavaweb.api.web;
+package com.demo.api.web;
 
 import org.springframework.web.bind.annotation.RestController;
 

@@ -1,4 +1,4 @@
-package com.laptrinhjavaweb.constant;
+package com.demo.constant;
 
 public class SystemConstant {
 	

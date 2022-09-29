@@ -1,12 +1,12 @@
-package com.laptrinhjavaweb.service.impl;
+package com.demo.service.impl;
 
-import com.laptrinhjavaweb.converter.NewConverter;
-import com.laptrinhjavaweb.dto.NewDTO;
-import com.laptrinhjavaweb.entity.CategoryEntity;
-import com.laptrinhjavaweb.entity.NewEntity;
-import com.laptrinhjavaweb.repository.CategoryRepository;
-import com.laptrinhjavaweb.repository.NewRepository;
-import com.laptrinhjavaweb.service.INewService;
+import com.demo.converter.NewConverter;
+import com.demo.dto.NewDTO;
+import com.demo.entity.CategoryEntity;
+import com.demo.entity.NewEntity;
+import com.demo.repository.CategoryRepository;
+import com.demo.repository.NewRepository;
+import com.demo.service.INewService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;

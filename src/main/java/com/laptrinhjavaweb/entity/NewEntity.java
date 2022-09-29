@@ -1,4 +1,4 @@
-package com.laptrinhjavaweb.entity;
+package com.demo.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
